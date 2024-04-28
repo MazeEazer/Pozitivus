@@ -1,0 +1,30 @@
+:root{
+  //цвета на странице
+  --color-dark: #191A23;
+  --color-light: #FFFFFF;
+  --color-accent: #B9FF66;
+  --color-gray: hsl(0, 0%, 95%);
+  --color-gray-alt: #898989;
+
+  //границы
+  --border: 1px solid var(--color-dark);
+  --border-radius: 14px;
+  --border-radius-small: 7px;
+  --border-radius-large: 45px;
+//тени
+  --shadow: 0 5px 0 0 var(--color-dark);
+//сесмейство
+  --font-family-base: 'Space Grotesk', sans-serif;
+//контейнерные широты и отступы.
+  --container-width: 1240px;
+  --container-padding-x: 29px;
+
+  --section-padding-y: 70px;
+//кнопка, форма
+  --input-height: 59px;
+  --button-height: 68px;
+  //переход
+  --transition-duration: 0.2s;
+
+  
+}
